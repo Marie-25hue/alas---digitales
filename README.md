@@ -38,7 +38,7 @@ Nuestro lema:
 - El ecosistema estará disponible inicialmente en **Español** e **Inglés**.
 - Planificado para expandirse a otros idiomas según necesidades de las comunidades usuarias.
 - Todos los contenidos y mensajes estarán adaptados culturalmente, no solo traducidos.
-- 
+
 ✅ **Open Source & Transparente**  
 - Código abierto bajo licencia MIT.
 - Roadmap público y colaborativo.
